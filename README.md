@@ -7,4 +7,4 @@
 	АЛИЯР АДЫХАЛОВ
 	БОГДАН
 
-ССЫЛКА НА ЭЬОЬО РЕПОЗИТОРИЙ: https://github.com/DiovaloClown/Project.git
+ССЫЛКА НА ЭТОТО РЕПОЗИТОРИЙ: https://github.com/DiovaloClown/Project.git
